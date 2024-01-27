@@ -1,0 +1,10 @@
+
+.about{
+    display: flex;
+    justify-content: center;
+}
+
+.aboutContainer{
+    width: 100%;
+    max-width: 1024px;
+}
